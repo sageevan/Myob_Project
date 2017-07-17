@@ -21,7 +21,7 @@ The calculation details will be the following:
 • super = gross income x super rate
 
 
-Example Data
+Example Data with out put
 
 Employee annual salary is 60,050, super rate is 9%, how much will this employee be paid for the month
 
@@ -38,3 +38,5 @@ of March ?
 • super = 5,004 x 9% = 450.36 (round down) = 450
 
 ****************************************************************************************************************************
+
+
